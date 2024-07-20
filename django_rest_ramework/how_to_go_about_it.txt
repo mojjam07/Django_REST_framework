@@ -1,0 +1,15 @@
+Django REST framework by Ssali Jonathan
+=======================================
+Video 1 : Steps
+1. Create a folder and open it on VSCode
+2. Set up a Django project 
+3. Install Django 
+4. Run 'pip freeze > requirements.txt'
+5. Then create Django project : django-admin startproject 'name' .
+6. Then run the server
+7. Then Django REST framework : pip install djangorestframework
+8. Run 'pip freeze > requirements.txt'
+9. Run 'pip list'
+10. Then setup Django REST framework
+- create an app : python manage.py startapp 'name'
+- setup the app in settings.py by adding the app and 'rest_framework'
