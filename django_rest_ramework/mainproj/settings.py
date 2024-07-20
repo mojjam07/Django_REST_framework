@@ -38,6 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     'posts.apps.PostsConfig',
+    'blog.apps.BlogConfig',
 
     # django REST framework
     'rest_framework',
