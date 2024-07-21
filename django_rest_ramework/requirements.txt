@@ -3,3 +3,8 @@ Django==5.0.7
 djangorestframework==3.15.2
 sqlparse==0.5.0
 tzdata==2024.1
+
+Superuser:
+Email: admin@drf.com
+Username: admin
+Password: password
